@@ -50,7 +50,7 @@
         <curator.version>4.0.1</curator.version>
         <dubbo.version>2.6.9</dubbo.version>
         <zkclient.version>0.11</zkclient.version>
-        <nacos.version>1.0.0</nacos.version>
+        <nacos.version>3.0.0</nacos.version>
         <swagger.version>2.0.0</swagger.version>
         <protoc.version>3.11.0</protoc.version>
         <grpc.version>1.28.0</grpc.version>
